@@ -1,1 +1,1 @@
-# binary_vector
+# jupyter_setups
